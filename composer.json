@@ -1,0 +1,14 @@
+{
+	"name": "dommmel/contactformrecorder",
+	"description": "Plugin for for Craft CMS that saves messages sent through P&amp;T&#39;s Contact Form plugin into the database.",
+	"type": "craft-plugin",
+	"authors": [
+		{
+			"name": "Dommmel",
+			"homepage": "https://github.com/dommmel"
+		}
+	],
+	"require": {
+		"composer/installers": "~1.0"
+	}
+}
